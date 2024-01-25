@@ -1,6 +1,6 @@
 # BloodHound Database Creator
 
-This python script will generate a randomized data set for testing BloodHound features and analysis.
+This python script will generate a randomized data set for testing BloodHound features and analysis. Contains a modified version of DBCreator.py by Corkster919 https://github.com/BloodHoundAD/BloodHound-Tools/issues/22#issuecomment-821415956, with correct to avoid violation of unique ID constraints. 
 
 ## Requirements
 
